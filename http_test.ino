@@ -2,11 +2,11 @@
 #include <HTTPClient.h>
 
 // Wi-Fi credentials
-const char* ssid = "Phone_1_5425";
-const char* password = "116241104";
+const char* ssid = "Enter SSID";
+const char* password = "Enter pass";
 
 // HTTP server details
-const char* serverName = "http://20.117.104.177/esp32_time_check.php";
+const char* serverName = "your server url";
 
 void setup() {
   Serial.begin(115200);
