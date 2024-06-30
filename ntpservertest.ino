@@ -2,8 +2,8 @@
 #include "time.h"
 
 // Wi-Fi credentials
-const char* ssid = "Phone_1_5425";
-const char* password = "116241104";
+const char* ssid = "enter ssid";
+const char* password = "enter pass";
 
 // NTP server details
 const char* ntpServer = "pool.ntp.org";
