@@ -21,6 +21,7 @@ Medimate is an IoT-based automatic pill dispenser designed to help individuals t
 - Flask (Python)
 - Firebase / Google Sheets API (for scheduling)
 - HTTPS-based web interface
+- Docker
 
 ## How It Works
 1. User sets up a medication schedule via the web interface.
